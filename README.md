@@ -1,4 +1,4 @@
 # friendly-octo-spork
 
-Rad is a dumbass
+Rad is a dumbass\n
 correct
